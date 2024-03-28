@@ -1,3 +1,10 @@
+# DESENVOLVA UM PROGRAMA EM QUE O USUÁRIO IRÁ INFORMAR UMA
+# PERGUNTA (UTILIZANDO EXATAMENTE AS PERGUNTAS DO QUESTIONÁRIO
+# ANTERIOR) E O SISTEMA DEVERÁ APRESENTAR A RESPOSTA.
+# Referente ao 1º episódio da 6ª temporada de Black Mirror.
+
+
+
 # Escopo global
 # mensagem = input("Escolha uma das opções: ")
 pergunta = -1
