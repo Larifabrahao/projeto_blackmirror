@@ -39,7 +39,7 @@ while (pergunta != 0):            # != significa "diferente"  # Int = Indica que
 	if(pergunta == 1):
 		print(f'''
 		
-Joan (a atriz que faz a Joana na série é a Selma Hayleke).
+Joan Taif (a atriz que faz a Joan na série é a Selma Hayleke).
 		
 		''')
 
