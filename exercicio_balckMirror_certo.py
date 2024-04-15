@@ -3,8 +3,7 @@
 # ANTERIOR) E O SISTEMA DEVERÁ APRESENTAR A RESPOSTA.
 # Referente ao 1º episódio da 6ª temporada de Black Mirror.
 
-
-
+#jlrsgbjlsdgbdlsjbgjldabgjlsdabjlgb
 # Escopo global
 # mensagem = input("Escolha uma das opções: ")
 opcoes = -1
